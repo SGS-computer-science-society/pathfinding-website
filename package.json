@@ -1,6 +1,4 @@
 {
-  "homepage": "https://sgs-computer-science-society.github.io/pathfinding-website/",
-
   "name": "pathfinding-website",
   "version": "0.1.0",
   "private": true,
